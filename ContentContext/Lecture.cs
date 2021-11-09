@@ -2,7 +2,7 @@ using Curse.ContentContext.Enums;
 
 namespace Curse.ContentContext
 {
-    public class Lecture
+    public class Lecture : Base
     {
         public int Order { get; set; }
 

@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace Curse.ContentContext
 {
     public class Article : Content

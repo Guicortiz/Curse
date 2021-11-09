@@ -1,4 +1,7 @@
 namespace Curse.ContentContext
 {
-    public class Article : Content { }
+    public class Article : Content
+    {
+
+    }
 }

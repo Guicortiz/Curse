@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Curse.ContentContext.Enums;
 
 namespace Curse.ContentContext
 {
@@ -12,28 +13,9 @@ namespace Curse.ContentContext
 
         public IList<Module> Modules { get; set; }
 
-    }
+        public int DurationInMinutes { get; set; }
 
-    public class Module
-    {
+        public EContentLevel Level { get; set; }
 
-        public Module()
-        {
-            Lectures = new List<Lecture>();
-        }
-        public int Order { get; set; }
-
-        public string Title { get; set; }
-
-        public IList<Lecture> Lectures { get; set; }
-
-
-    }
-
-    public class Lecture
-    {
-        public int Order { get; set; }
-
-        public string Title { get; set; }
     }
 }

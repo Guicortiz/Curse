@@ -1,3 +1,5 @@
+using Curse.NotificationContext;
+
 namespace Curse.ContentContext
 {
     public class CareerItem : Base
@@ -9,7 +11,7 @@ namespace Curse.ContentContext
             Course course)
         {
             if (course == null)
-                throw new System.Exception("O curso não pode ser nulo");
+                AddNotification(new Notification("Course", "Course invalid"));
             Order = order;
             Title = title;
             Description = description;

@@ -1,4 +1,5 @@
 ﻿using System;
+using Curse.ContentContext;
 
 namespace Curse
 {
@@ -6,7 +7,7 @@ namespace Curse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }

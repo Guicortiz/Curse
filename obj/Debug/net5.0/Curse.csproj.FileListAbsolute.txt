@@ -1,0 +1,16 @@
+C:\dev\Curse\bin\Debug\net5.0\Curse.exe
+C:\dev\Curse\bin\Debug\net5.0\Curse.deps.json
+C:\dev\Curse\bin\Debug\net5.0\Curse.runtimeconfig.json
+C:\dev\Curse\bin\Debug\net5.0\Curse.runtimeconfig.dev.json
+C:\dev\Curse\bin\Debug\net5.0\Curse.dll
+C:\dev\Curse\bin\Debug\net5.0\ref\Curse.dll
+C:\dev\Curse\bin\Debug\net5.0\Curse.pdb
+C:\dev\Curse\obj\Debug\net5.0\Curse.csproj.AssemblyReference.cache
+C:\dev\Curse\obj\Debug\net5.0\Curse.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Curse\obj\Debug\net5.0\Curse.AssemblyInfoInputs.cache
+C:\dev\Curse\obj\Debug\net5.0\Curse.AssemblyInfo.cs
+C:\dev\Curse\obj\Debug\net5.0\Curse.csproj.CoreCompileInputs.cache
+C:\dev\Curse\obj\Debug\net5.0\Curse.dll
+C:\dev\Curse\obj\Debug\net5.0\ref\Curse.dll
+C:\dev\Curse\obj\Debug\net5.0\Curse.pdb
+C:\dev\Curse\obj\Debug\net5.0\Curse.genruntimeconfig.cache

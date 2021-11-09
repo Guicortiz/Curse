@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using Curse.ContentContext;
+using Curse.SubscritionContext;
 
 namespace Curse
 {
@@ -57,6 +58,10 @@ namespace Curse
                 }
             }
 
+            var PayPalSubscrition = new PayPalSubscrition();
+            var student = new Student();
+
+            student.CreateSubscrition(PayPalSubscrition);
         }
     }
 }

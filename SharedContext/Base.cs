@@ -1,7 +1,7 @@
 using System;
 using Curse.NotificationContext;
 
-namespace Curse.ContentContext
+namespace Curse.SharedContext
 {
     public abstract class Base : Notifiable
     {

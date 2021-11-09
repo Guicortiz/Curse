@@ -1,4 +1,5 @@
 using Curse.ContentContext.Enums;
+using Curse.SharedContext;
 
 namespace Curse.ContentContext
 {

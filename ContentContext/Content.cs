@@ -1,4 +1,5 @@
 using System;
+using Curse.SharedContext;
 
 namespace Curse.ContentContext
 {
